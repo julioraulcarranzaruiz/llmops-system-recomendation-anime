@@ -1,4 +1,7 @@
 langchain
+langchain-classic
+langchain-text-splitters
+langchain-chroma
 langchain-community
 langchain-groq
 chromadb
